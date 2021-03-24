@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Cours HCIA
 
-You can use the [editor on GitHub](https://github.com/safibaber/isetdj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ce cours est destiné à la certification HCIA BIGDATA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Les Labos HCIA BIGDATA
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
